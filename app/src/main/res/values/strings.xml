@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidTestApp</string>
+    <string name="landscape_text">Portrait Mode</string>
+    <string name="landscape_tile">Landscape Mode</string>
+    <string name="pip_title">Picture in Picture</string>
+    <string name="pip_btn_title">PIP Mode</string>
+    <string name="pip_btn">Launcher</string>
+    <string name="take_photo">TAKE PHOTO</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_message">You must grant permission to access camera and external storage to run this application.</string>
+    <string name="permission_warning">All permissions are required.</string>
+    <dimen name="show_permission_padding">20dp</dimen>
+
+    <string name="description">Drag ME</string>
+    <string name="drag_n_drop_title">DragNDrop</string>
+    <string name="keyboard_title_focus">Keyboard On-Focus</string>
+    <string name="keyboard_title_load">Keyboard On-Load</string>
+    <string name="web_view_title">WebView</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Button</string>
+    <string name="dummy_content">Full Screen Activity</string>
+</resources>
